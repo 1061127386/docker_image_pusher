@@ -7,4 +7,5 @@ xhofe/alist:latest
 xiaoyaliu/alist
 
 #支持指定架构
-#--platform=linux/arm64
+#--platform=linux/amd64  #默认
+--platform=linux/arm64
