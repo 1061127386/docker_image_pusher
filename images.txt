@@ -4,7 +4,7 @@ hello-world
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #多命名空间
 xhofe/alist:latest
-xiaoyaliu/alis
+xiaoyaliu/alist
 
 #支持指定架构
 #--platform=linux/arm64
